@@ -4,7 +4,7 @@ import StudentList from './components/StudentList';
 import './app.css';
 
 function App() {
-  const title = 'Activity 6: Reducers';
+  const title = 'Activity 4: Consumers';
   useEffect(() => {
     document.title = title;
   }, []);
